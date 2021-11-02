@@ -1,4 +1,4 @@
-### H, I'm Grace! 👋
+### Hi, I'm Grace! 👋
 
 - 🌙 Prounouns: she/her
 - 🏫 School & year: Fourth year at Illinois Institute of Technology
