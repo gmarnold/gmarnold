@@ -1,8 +1,9 @@
 ### Hi, I'm Grace! 👋
 
 - 🌙 Prounouns: she/her
+- 👩‍💻 Experience: Ex-Zoom Software Development Engineer
 - 📜 Degrees: BS & MS in Computer Science from Illinois Institute of Technology
-- 📚 Languages I know: Python, Java, C, Angular (TypeScript), SQL, HTML/CSS, Scala
-- 🌱 Languages I'm learning: JavaScript, Go, C++
-- 👩‍💻 Technologies I'm familiar with: Android, Git, Tableau, Unix/Linux
+- 📚 Skills: Python, Java, C, C++, Angular (TypeScript), SQL, Git, Unix/Linux HTML/CSS, Scala
+- 🌱 Learning: JavaScript, Go, Unity
+- 💕 Passions: Gaming, Baking, Music, Art
 - ✨ Fun fact: My family has a Guinness World Record!
